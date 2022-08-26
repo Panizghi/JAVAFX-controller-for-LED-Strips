@@ -74,3 +74,8 @@ Moreover, I added the SerialPortSerice class to make the bridge of connection be
 finally, I set up the two values that initialized for the slider in java to change my setup brightness accordingly.
 
 
+Refrences :
+
+James Andrew Smith • Associate professor Department of Electrical Engineering and Computer Science Lassonde School of Engineering
+
+Eric Prandovszky • Laboratory Technologist Department of Electrical Engineering and Computer Science Lassonde School of Engineering
