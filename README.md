@@ -16,7 +16,7 @@ is the house lighting. LED strips can be a good substitution for a place that do
 bright light intensity in a household. For example, the rooms, bathroom, and even the kitchen can
 be a good placement for LED strips. Since they use less energy comparing to regular lighting
 resources and they are environmentally friendly they can be a suitable option for making a house
-more modern or even saving money on electricity bills[1].
+more modern or even saving money on electricity bill.
 While LED strips by themselves can have a reasonable price which can be used in large areas
 when they contain the remote the price start to going up significantly which can be one of the
 reasons that people rather buy the regular lighting recourse.
