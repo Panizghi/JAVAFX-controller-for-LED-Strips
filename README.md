@@ -43,7 +43,7 @@ friendly.
     - It is preferable to use an extra voltage resource instead of getting the voltage from the board.
     This reduces the chance of burning either the LED strip or the board.
     
-    ### COMPONENTS LIST:
+### COMPONENTS LIST:
 
 Physical components
 
