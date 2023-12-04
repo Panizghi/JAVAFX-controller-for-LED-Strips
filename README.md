@@ -6,7 +6,7 @@ LED light strips have become a popular trend among teenagers, providing an affor
 
 ## Context
 
-Amidst the global pandemic, residential electricity usage increased significantly, with house lighting being a major contributor. LED strips serve as an energy-efficient and environmentally friendly alternative for areas with lower light intensity requirements in households. To promote sustainability and reduce costs, this project aims to create a software controller for LED strips, eliminating the need for expensive remote controllers and bringing households closer to environmental friendliness.
+To promote sustainability and reduce costs, this project aims to create a software controller for LED strips, eliminating the need for expensive remote controllers and bringing households closer to environmental friendliness.
 
 ## Technical Requirements / Specifications
 
